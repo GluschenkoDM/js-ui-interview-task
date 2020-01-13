@@ -1,0 +1,14 @@
+{
+  "name": "js_interview_test",
+  "version": "1.0.0",
+  "description": "js_interview_test",
+  "scripts": {
+    "test": "jasmine test.js",
+	"answer": "jasmine answer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
