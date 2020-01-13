@@ -13,7 +13,7 @@ describe('Logger', () => {
 
         // Act
         for (const value of expected) {
-            logger.push(value);
+            await logger.push(value);
         }
 
         //Assert
